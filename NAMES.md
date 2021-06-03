@@ -2,3 +2,4 @@
 
 [Oluwatosin Ayeni](https://github.com/Ayenitosin03/)
 [Samuel Ogunleye](https://github.com/Sproff)
+[Oguntuase Oluwasegun](https://github.com/Tuasegun)
