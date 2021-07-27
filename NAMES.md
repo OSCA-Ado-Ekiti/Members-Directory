@@ -5,3 +5,5 @@
 [Samuel Ogunleye](https://github.com/Sproff)
 
 [Oguntuase Oluwasegun](https://github.com/Tuasegun)
+
+[Salawu Abdulmalik](https://github.com/Saintmalik)
