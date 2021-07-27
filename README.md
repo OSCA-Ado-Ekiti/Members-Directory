@@ -8,4 +8,4 @@ Take a look at the [CONTRIBUTING.md](CONTRIBUTING.md) to learn how to accurately
 
  Add your name to the `NAMES.md` and create a pull request in the format below
 
-`[NAME](github-repository-link)`
+`[NAME](github-profile-link)`
