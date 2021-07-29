@@ -10,4 +10,4 @@
 
 [Ogunmisi Oluwafemi](https://github.com/OgunmisiM)
 
-[Adeshina Favour] (https://github.com/favour-dgreat)
+[Adeshina Favour](https://github.com/favour-dgreat)
