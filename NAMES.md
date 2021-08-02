@@ -15,3 +15,5 @@
 [Jesusanya Simeon](https://github.com/Simeon2001)🤓🤖
 
 [Goodness Olawoore](https://github.com/goodnessolawoore)
+
+[Ejilola Hammed Ejitomiwa](https://github.com/EjilolaHammedEjitomiwa) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/EjilolaHammedEjitomiwa)
