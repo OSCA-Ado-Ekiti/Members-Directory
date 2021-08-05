@@ -17,3 +17,5 @@
 [Goodness Olawoore](https://github.com/goodnessolawoore)
 
 [Ejilola Hammed Ejitomiwa](https://github.com/EjilolaHammedEjitomiwa) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/EjilolaHammedEjitomiwa)
+
+[Oluwakayode Adejare](https://github.com/emmyrespect)
