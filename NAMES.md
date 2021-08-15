@@ -1,8 +1,8 @@
 # ADD YOUR NAMES IN THIS FILE AS DESCRIBED IN THE README.md FILE
 
-[Salawu Abdulmalik](https://github.com/Saintmalik)✌🏾😌
+[Salawu Abdulmalik](https://github.com/Saintmalik) [<img src="https://img.shields.io/badge/Lead-OSCA%20ADO%20EKITI-green">](https://github.com/saintmalik)
 
-[Oluwatosin Ayeni](https://github.com/Ayenitosin03/)
+[Oluwatosin Ayeni](https://github.com/Ayenitosin03/) [<img src="https://img.shields.io/badge/Co--Lead-OSCA%20ADO%20EKITI-green">](https://github.com/saintmalik)
 
 [Samuel Ogunleye](https://github.com/Sproff) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Sproff)
 
