@@ -8,7 +8,7 @@
 
 [Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Tuasegun)
 
-[Ogunmisi Oluwafemi](https://github.com/OgunmisiM)
+[Ogunmisi Oluwafemi](https://github.com/OgunmisiM)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/OgunmisiM)
 
 [Adeshina Favour](https://github.com/favour-dgreat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/favour-dgreat)
 
