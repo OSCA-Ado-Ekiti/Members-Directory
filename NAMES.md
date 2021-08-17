@@ -1,5 +1,3 @@
-[Adams Ahmed](https://github.com/Harmedino)
-
 [Salawu Abdulmalik](https://github.com/Saintmalik) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Lead-green">](https://github.com/saintmalik)
 
 [Oluwatosin Ayeni](https://github.com/Ayenitosin03/) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Co--Lead-green">](https://github.com/saintmalik)
@@ -23,3 +21,5 @@
 [Olawale olanrewaju](https://github.com/larrick12) 
 
 [Akinpelu Johnson](https://github.com/JohnsonAkin)
+
+[Adams Ahmed](https://github.com/Harmedino)
