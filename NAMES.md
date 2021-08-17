@@ -1,4 +1,4 @@
-# ADD YOUR NAMES IN THIS FILE AS DESCRIBED IN THE README.md FILE
+[Adams Ahmed](https://github.com/Harmedino)
 
 [Salawu Abdulmalik](https://github.com/Saintmalik) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Lead-green">](https://github.com/saintmalik)
 
