@@ -1,22 +1,22 @@
-[Salawu Abdulmalik](https://github.com/Saintmalik) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Lead-green">](https://github.com/saintmalik)
+[Salawu Abdulmalik](https://github.com/Saintmalik) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Lead-orange">](https://github.com/saintmalik)
 
-[Oluwatosin Ayeni](https://github.com/Ayenitosin03/) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Co--Lead-green">](https://github.com/Ayenitosin03)
+[Oluwatosin Ayeni](https://github.com/Ayenitosin03/) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Co--Lead-orange">](https://github.com/Ayenitosin03)
 
-[Samuel Ogunleye](https://github.com/Sproff) [<img src="https://img.shields.io/badge/OSCA%20Ado%20Ekiti-Core-green">](https://github.com/Sproff)
+[Samuel Ogunleye](https://github.com/Sproff) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/Sproff)
 
-[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20Ado%20Ekiti-Core-green">](https://github.com/OgunmisiM)
+[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/OgunmisiM)
 
-[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/emmanuelJet)
+[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
 
-[Adeshina Favour](https://github.com/favour-dgreat) [<img src="https://img.shields.io/badge/OSCA%20Ado%20Ekiti-Core-green">](https://github.com/favour-dgreat)
+[Adeshina Favour](https://github.com/favour-dgreat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/favour-dgreat)
 
 [Jesusanya Simeon](https://github.com/Simeon2001)🤓🤖
 
 [Goodness Olawoore](https://github.com/goodnessolawoore)
 
-[Ejilola Hammed Ejitomiwa](https://github.com/EjilolaHammedEjitomiwa) [<img src="https://img.shields.io/badge/OSCA%20Ado%20Ekiti-Core-green">](https://github.com/EjilolaHammedEjitomiwa)
+[Ejilola Hammed Ejitomiwa](https://github.com/EjilolaHammedEjitomiwa) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/EjilolaHammedEjitomiwa)
 
-[Oluwakayode Adejare](https://github.com/emmyrespect) [<img src="https://img.shields.io/badge/OSCA%20Ado%20Ekiti-Core-green">](https://github.com/emmyrespect)
+[Oluwakayode Adejare](https://github.com/emmyrespect) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/emmyrespect)
 
 [Olawale olanrewaju](https://github.com/larrick12) 
 
@@ -24,4 +24,4 @@
 
 [Adams Ahmed](https://github.com/Harmedino)
 
-[Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/emmanuelJet)
+[Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
