@@ -29,5 +29,6 @@
 
 [Ohere Jonathan](https://github.com/ajontat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/ajontat)
 
-[Adeoye Tobi](https://github.com/OluSure)
+[Adeoye Tobi](https://github.com/OluSure) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/OluSure)
+
 
