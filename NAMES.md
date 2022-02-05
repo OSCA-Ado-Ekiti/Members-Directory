@@ -31,3 +31,5 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
+
+[Adele Fikayo](https://github.com/FikayoAdele)
