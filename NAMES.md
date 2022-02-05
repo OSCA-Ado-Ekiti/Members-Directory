@@ -4,9 +4,9 @@
 
 [Samuel Ogunleye](https://github.com/Sproff) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/Sproff)
 
-[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/OgunmisiM)
+[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/Tuasegun)
 
-[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
+[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/OgunmisiM)
 
 [Adeshina Favour](https://github.com/favour-dgreat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/favour-dgreat)
 
@@ -23,7 +23,7 @@
 
 [Akinpelu Johnson](https://github.com/JohnsonAkin)
 
-[Adams Ahmed](https://github.com/Harmedino)
+[Adams Ahmed](https://github.com/Harmedino) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Harmedino)
 
 [Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
 
@@ -31,6 +31,18 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 
-[Olaoye Isaiah](https://github.com/kuhmasii)
+[Ojo oluwadamilola](https://github.com/veronicaojo)
+
+[Olaoye Isaiah](https://github.com/kuhmasii) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/kuhmasii)
+
+[Blessing Edward](https://github.com/edybee) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/edybee)
+
+[Elijah Edun](https://github.com/Elijah699) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](github-profile-link)
+
+[Oyaromade Hammed Olalekan](https://github.com/hamdev05)
+
+[Mbanugo Gracioux](https://github.com/GraciouxMbanugo)
+
+[Tolu Orioye](https://github.com/Toluorioye)
 
 [Adetoye Anointing](https://github.com/KingAnointing)
