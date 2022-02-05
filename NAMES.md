@@ -23,13 +23,18 @@
 
 [Akinpelu Johnson](https://github.com/JohnsonAkin)
 
-[Adams Ahmed](https://github.com/Harmedino)
+[Adams Ahmed](https://github.com/Harmedino) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Harmedino)
 
 [Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
 
 [Ohere Jonathan](https://github.com/ajontat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/ajontat)
 
 [Adeoye Tobi](https://github.com/OluSure)
+
 [Olaoye Isaiah](https://github.com/kuhmasii)
+
+[Elijah Edun](https://github.com/Elijah699) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](github-profile-link)
+
+[Oyaromade Hammed Olalekan](https://github.com/hamdev05)
 
 [Mbanugo Gracioux](https://github.com/GraciouxMbanugo)
