@@ -32,4 +32,4 @@
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
 
-[Mbanugo Grace](https://github.com/GraciouxMbanugo)
+[Mbanugo Gracioux](https://github.com/GraciouxMbanugo)
