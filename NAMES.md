@@ -32,4 +32,4 @@
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
 
-[Eyitayo Olanipekun Olonilua](https://github.com/olanipekun01)
+[Eyitayo Olonilua](https://github.com/olanipekun01)
