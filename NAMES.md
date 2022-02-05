@@ -30,6 +30,9 @@
 [Ohere Jonathan](https://github.com/ajontat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/ajontat)
 
 [Adeoye Tobi](https://github.com/OluSure)
+
 [Olaoye Isaiah](https://github.com/kuhmasii)
 
 [Elijah Edun](https://github.com/Elijah699) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](github-profile-link)
+
+[Oyaromade Hammed Olalekan](https://github.com/hamdev05)
