@@ -31,3 +31,4 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
+[James Peter](https://github.com/smicks11)
