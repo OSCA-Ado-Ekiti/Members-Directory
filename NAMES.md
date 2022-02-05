@@ -23,6 +23,8 @@
 
 [Akinpelu Johnson](https://github.com/JohnsonAkin)
 
+[Anifowoshe Abayomi](https://github.com/Haybeehworld)
+
 [Adams Ahmed](https://github.com/Harmedino) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Harmedino)
 
 [Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
