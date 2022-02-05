@@ -31,3 +31,5 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
+
+[Blessing Edward](https://github.com/edybee) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/edybee)
