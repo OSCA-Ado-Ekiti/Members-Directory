@@ -31,13 +31,9 @@
 
 [Adeoye Tobi](https://github.com/OluSure)
 
-[Olaoye Isaiah](https://github.com/kuhmasii)
-
 [Ojo oluwadamilola](https://github.com/veronicaojo)
 
 [Olaoye Isaiah](https://github.com/kuhmasii) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/kuhmasii)
-
-[Olaoye Isaiah](https://github.com/kuhmasii)
 
 [Blessing Edward](https://github.com/edybee) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/edybee)
 
@@ -48,3 +44,5 @@
 [Mbanugo Gracioux](https://github.com/GraciouxMbanugo)
 
 [Tolu Orioye](https://github.com/Toluorioye)
+
+[Adetoye Anointing](https://github.com/KingAnointing)
