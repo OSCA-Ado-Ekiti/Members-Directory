@@ -4,9 +4,9 @@
 
 [Samuel Ogunleye](https://github.com/Sproff) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/Sproff)
 
-[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/OgunmisiM)
+[Oguntuase Oluwasegun](https://github.com/Tuasegun)[<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/Tuasegun)
 
-[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
+[Ogunmisi Oluwafemi](https://github.com/OgunmisiM) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/OgunmisiM)
 
 [Adeshina Favour](https://github.com/favour-dgreat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/favour-dgreat)
 
