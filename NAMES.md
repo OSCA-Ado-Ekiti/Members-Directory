@@ -21,17 +21,17 @@
 
 [Olawale olanrewaju](https://github.com/larrick12) 
 
-[Akinpelu Johnson](https://github.com/JohnsonAkin)
+[Akinpelu Johnson](https://github.com/JohnsonAkin) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/JohnsonAkin)
 
 [Anifowoshe Abayomi](https://github.com/Haybeehworld)
 
-[Adams Ahmed](https://github.com/Harmedino) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](https://github.com/Harmedino)
+[Adams Ahmed](https://github.com/Harmedino) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/Harmedino)
 
 [Emmanuel Joseph(JET)](https://github.com/emmanuelJet) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/emmanuelJet)
 
 [Ohere Jonathan](https://github.com/ajontat) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/ajontat)
 
-[Adeoye Tobi](https://github.com/OluSure) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Core-orange">](https://github.com/OluSure)
+[Adeoye Tobi](https://github.com/OluSure) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/OluSure)
 
 
 [Ojo oluwadamilola](https://github.com/veronicaojo)
@@ -40,7 +40,7 @@
 
 [Blessing Edward](https://github.com/edybee) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/edybee)
 
-[Elijah Edun](https://github.com/Elijah699) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-green">](github-profile-link)
+[Elijah Edun](https://github.com/Elijah699) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](github-profile-link)
 
 [Oyaromade Hammed Olalekan](https://github.com/hamdev05)
 
