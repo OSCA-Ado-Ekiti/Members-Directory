@@ -38,3 +38,5 @@
 [Oyaromade Hammed Olalekan](https://github.com/hamdev05)
 
 [Mbanugo Gracioux](https://github.com/GraciouxMbanugo)
+
+[Tolu Orioye](https://github.com/Toluorioye)
