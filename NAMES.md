@@ -55,3 +55,5 @@
 [Adele Fikayo](https://github.com/FikayoAdele)
 
 [Praise Olawoore](https://github.com/drissdunn)
+
+[Paul Aromomlaran](https://github.com/PaulAroo)
