@@ -57,3 +57,5 @@
 [Praise Olawoore](https://github.com/drissdunn)
 
 [Paul Aromomlaran](https://github.com/PaulAroo)
+
+[James Peter](https://github.com/smicks11)
