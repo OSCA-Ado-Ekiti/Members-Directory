@@ -63,3 +63,5 @@
 [Blessing Bello](https://github.com/oritselaye)
 
 [James Peter](https://github.com/smicks11)
+
+[Victor Akinode](https://github.com/Victor-Akinode)
