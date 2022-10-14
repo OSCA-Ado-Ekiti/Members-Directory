@@ -67,3 +67,5 @@
 [Victor Akinode](https://github.com/Victor-Akinode)
 
 [Okunade Emmanuel Oluwadara](https://github.com/oluwadaraprime)
+
+[Benjamin Temitope Franklin](https://github.com/benjamintemitope)
