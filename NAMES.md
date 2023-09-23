@@ -72,4 +72,6 @@
 
 [Adeyi Gbenga](https://github.com/gray-adeyi)
 
-[Niyi-Onifade Julius](https://github.com/Julius36)
+[Albert Adekanye](https://github.com/AlbertAdekanye)
+
+[Niyi-Onifade Juiius](https://github.com/Julius36)
