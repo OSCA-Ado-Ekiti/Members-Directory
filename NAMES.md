@@ -59,6 +59,7 @@
 
 [Paul Aromomlaran](https://github.com/PaulAroo)
 
+[Nur Farah](https://github.com/Nur-farah)
 
 [Blessing Bello](https://github.com/oritselaye)
 
