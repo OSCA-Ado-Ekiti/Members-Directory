@@ -80,3 +80,7 @@
 [Bamisaye Marvellous](https://github.com/nobledeveloper01)
 
 [Adeyemi Glory](https://github.com/Glory135)
+
+[Olatunji-Aresa Ariyo](https://github.com/ariyoaresa)
+
+[Oseni Abdulsamad Adeshina](https://github.com/1AmSammi3)
